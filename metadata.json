@@ -1,0 +1,8 @@
+{
+  "name": "TheekHai",
+  "description": "A collaborative healthcare companion app for families and caregivers, facilitating medication tracking, vitals monitoring, and shared care coordination.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
